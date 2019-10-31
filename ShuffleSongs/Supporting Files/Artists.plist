@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Name</key>
+		<string>John Dollar</string>
+		<key>Id</key>
+		<string>909253</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Charlie and the Chewie Humans</string>
+		<key>Id</key>
+		<string>1171421960</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Bloco TótiOQue</string>
+		<key>Id</key>
+		<string>358714030</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>MC Arianne</string>
+		<key>Id</key>
+		<string>1419227</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Decimais MC’s</string>
+		<key>Id</key>
+		<string>264111789</string>
+	</dict>
+</array>
+</plist>
